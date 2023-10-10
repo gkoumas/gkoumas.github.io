@@ -1,2 +1,2 @@
 # gkoumas.github.io
-Giorgos Gkouymas
+Giorgos Gkoumas
